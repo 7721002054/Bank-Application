@@ -7,9 +7,7 @@ public class PrintService {
 	            "\r" + "2.Log in" + "\n" +
 	            "\r" + "3.Exit" + "\n" +
 	            "\r" + "*****GG_Bank*****" + "\n" +
-	            "\r" + "Contact Us-" + "\n" +
-	            "\r" + "Gaurav Bhalerao -77210 02054" +
-	            "\r" + "Gagan Matkar    -70403 99250" );
+	            "\r" + "Contact Us-" + "\n");
 	}
 
 	public static void existAccountMenu(){
